@@ -1,0 +1,13 @@
+.main_container {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border: none;
+  border-radius: 10px;
+  padding: 20px 15px;
+  background-color: #fff;
+}
+.coder {
+  font-style: italic;
+}
